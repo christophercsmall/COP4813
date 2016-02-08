@@ -23,6 +23,11 @@ footer {
     margin-bottom: 50px;
 }
 
+table{
+    border-spacing:20px;
+    border-collapse:separate;
+}
+
 td > span{
     color:greenyellow;
 }
